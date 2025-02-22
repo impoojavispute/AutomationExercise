@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="Test Execution">
+        <classes>
+            <class name="com.login.login"/>
+            <class name="com.Add_To_Cart.Add_To_Cart"/>
+            <class name="com.checkout.checkout"/>
+         </classes>
+    </test>
+</suite>
